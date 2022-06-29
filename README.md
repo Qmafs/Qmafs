@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qmafs
 - 👀 I’m interested in learning how to code 
-- 🌱 I’m currently learning HTML5
+- 🌱 I’m currently learning the basics and foundation of Coding
 - 💞️ I’m looking to collaborate on anyone that can teach me
 - 📫 How to reach me ...
 
